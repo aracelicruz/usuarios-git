@@ -20,4 +20,4 @@
 
 - Oscar, mi nombre de usuario en git: [OscarMM24](https://github.com/OscarMM24)
 
--araceli, mi nombre de susuraio en git: [aracelicruz](https://github.com/aracelicruz)
+- araceli, mi nombre de usuario en git: [aracelicruz](https://github.com/aracelicruz)
